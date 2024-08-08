@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /page52563655.html
+Disallow: /page_not_found
+Disallow: /page52564301.html
+Disallow: /privacy
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://simple-landing.ru/sitemap.xml
+Host: https://simple-landing.ru
